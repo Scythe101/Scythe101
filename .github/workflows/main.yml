@@ -28,7 +28,7 @@ jobs:
           # Options
           user: Scythe101
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, activity, community, metadata
           config_timezone: America/Los_Angeles
           plugin_repositories: yes
           plugin_repositories_featured: MatricesCalculator, SummationCalc, htmlclickergame, scythes_breakout
