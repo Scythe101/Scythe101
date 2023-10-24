@@ -68,5 +68,7 @@ jobs:
           plugin_achievements_limit: 15
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
           plugin_16personalities_url: https://www.16personalities.com/profiles/acb2addc8b3bc
