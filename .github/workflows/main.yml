@@ -31,7 +31,7 @@ jobs:
           base: header, repositories, activity, community, metadata
           config_timezone: America/Los_Angeles
           plugin_repositories: yes
-          plugin_repositories_featured: MatricesCalculator, SummationCalc, htmlclickergame, scythes_breakout
+          plugin_repositories_featured: MatricesCalculator, SummationCalc, htmlclickergame, scythes_breakout, blahajBot
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
