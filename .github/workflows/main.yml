@@ -42,6 +42,9 @@ jobs:
           plugin_topics_mode: icons
           plugins_topics_sort: starred
           plugin_topics_limit: 10
+
+          plugin_lines: yes
+          plugin_lines_repositories_limit: 2
           
           plugin_habits: yes
           plugin_habits_charts: yes
