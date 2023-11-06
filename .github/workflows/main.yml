@@ -75,10 +75,3 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_limit: 5
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM }}
-          plugin_steam_sections: player, recently-played
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_url: ${{ secrets.PERSONALITIES }}
