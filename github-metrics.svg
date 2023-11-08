@@ -283,7 +283,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Scythe101/scythe101.github.io</span>
-                                        <span>created 27 days ago</span>
+                                        <span>created 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Website for anything me related</div>
@@ -2317,7 +2317,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.72m out of 45.3m repositories</span>
+                                    <span class="gh">ranked 4.73m out of 51.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2455,7 +2455,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2023, 13:34:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2023, 14:09:08 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
