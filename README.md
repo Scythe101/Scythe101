@@ -26,3 +26,10 @@ i code things sometimes. my coding schedule is the most inconsistent thing to ex
 - [pi](https://github.com/Scythe101/piWebsite) - website i made for pi day to share the history of it
 - [toogle](https://github.com/Scythe101/toogle) - i got annoyed with unrelated search results so i made this using the google customizable engine to only show results from tech websites i trust
 - [Matrices Calculator](https://github.com/Scythe101/MatricesCalculator) - i built a little calculator in LOVE2D to help with simple matrix operations. the gui is scuffed but coding the math stuff was cool
+
+## what i use
+- arch
+- hyprland
+- neovim (for configs and smaller projects)
+- zeditor (larger projects)
+- visual studio code (for github codespaces)
