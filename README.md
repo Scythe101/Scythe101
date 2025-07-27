@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Scythe101/Scythe101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# hi :D
+i code things sometimes. my coding schedule is the most inconsistent thing to exist
+
+## what i'm working on
+- currently working on a project in svelte(kit) that i plan to finish sometime before mid august
+- learning java
+- ricing arch (btw)
