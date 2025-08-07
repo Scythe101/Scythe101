@@ -33,3 +33,5 @@ i code things sometimes. my coding schedule is the most inconsistent thing to ex
 - neovim (for configs and smaller projects)
 - zeditor (larger projects)
 - visual studio code (for github codespaces)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scythe101)](https://github.com/anuraghazra/github-readme-stats)
